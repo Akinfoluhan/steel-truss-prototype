@@ -40,3 +40,6 @@ The project combines:
 
 - Final report: `docs/final-report.pdf`
 - Project prompt: `docs/project-prompt.pdf`
+
+## Collaborators
+- [Parker Violand](https://www.linkedin.com/in/parker-violand/)
